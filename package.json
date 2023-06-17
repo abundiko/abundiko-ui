@@ -1,5 +1,5 @@
 {
-  "name": "abundiko_ui",
+  "name": "abundiko-ui",
   "version": "0.0.1",
   "description": "simple react ui package for prebuilt modifyable ui components",
   "main": "./dist/cjs/index.js",
